@@ -1,4 +1,4 @@
-
+--------------------------------------------------
 my-secret-pw
 docker stop some-mysql
 docker rm some-mysql
@@ -76,3 +76,4 @@ SELECT * FROM users;
 
 INSERT INTO students (first_name, last_name, phone_number, email, department, section, hod, admission_date, address) VALUES
 ('Rahul', 'kumar', '555-1234', 'rahul@example.com', 'civil', 'A', 'Dr. Brown', '2023-08-15', '123 Maple St');
+
